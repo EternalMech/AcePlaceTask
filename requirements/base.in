@@ -1,0 +1,6 @@
+click
+fastapi
+pydantic[dotenv]
+pydantic-settings
+uvicorn
+mongoengine
